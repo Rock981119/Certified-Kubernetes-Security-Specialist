@@ -6,7 +6,7 @@ Online curated resources that will help you prepare for taking the Kubernetes Ce
 
 - Please raise an issue, or make a pull request for fixes, new additions, or updates.
 
-I will try to restrict the cross references of resources primarly to [kubernetes.io](https://kubernetes.io) as CNCF/Linux Foundation exam rules allows you search **kubernetes.io/{docs|blog}** and [kubernetes github repo](https://github.com/kubernetes) only. Youtube videos and other third party resources e.g. blogs will be provided as an optional complimentary material and any 3rd party material not allowed in the exam will be designated with :triangular_flag_on_post: in the curriculum sections below.
+Resources are primarly cross references back to [allowed CKS sites](#URLs allowed in the extra single tab) during the exam as per CNCF/Linux Foundation exam rules allows you search. Youtube videos and other third party resources e.g. blogs will be provided as an optional complimentary material and any 3rd party material not allowed in the exam will be designated with :triangular_flag_on_post: in the curriculum sections below.
 
 Ensure you have the right version of Kubernetes documentation selected (e.g. v1.19 as of 17th Nov GA announcement) especially for API objects and annotations, however for third party tools, you might find that you can still find references for them in old releases and blogs [e.g. Falco install](https://github.com/kubernetes/website/issues/24184).
 
@@ -33,7 +33,7 @@ Offical exam objectives you review and understand in order to pass the test.
 
   *Linux Foundation offer several discounts around the year e.g. CyberMonday, Kubecon attendees among other special holidays/events*
 
-- URLs allowed in the extra single tab:
+### URLs allowed in the extra single tab
   - From Chrome or Chromium browser to open one additional tab in order to access 
     Kubernetes Documentation: 
     - https://kubernetes.io/docs/ and their subdomains
@@ -42,11 +42,10 @@ Offical exam objectives you review and understand in order to pass the test.
 
   This includes all available language translations of these pages (e.g. https://kubernetes.io/zh/docs/)
   - Tools:
-    - Trivy documentation https://github.com/aquasecurity/trivy
-    - Sysdig documentation https://docs.sysdig.com/
-    - Falco documentation https://falco.org/docs/
-    - App Armor:
-      Documentation https://gitlab.com/apparmor/apparmor/-/wikis/Documentation
+    - Trivy documentation: https://github.com/aquasecurity/trivy
+    - Sysdig documentation: https://docs.sysdig.com/
+    - Falco documentation: https://falco.org/docs/
+    - App Armor documentation: https://gitlab.com/apparmor/apparmor/-/wikis/Documentation
 
 ## CKS repo topics overview
 
