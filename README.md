@@ -6,7 +6,7 @@ Online curated resources that will help you prepare for taking the Kubernetes Ce
 
 - Please raise an issue, or make a pull request for fixes, new additions, or updates.
 
-Resources are primarly cross references back to [allowed CKS sites](#URLs allowed in the extra single tab) during the exam as per CNCF/Linux Foundation exam rules allows you search. Youtube videos and other third party resources e.g. blogs will be provided as an optional complimentary material and any 3rd party material not allowed in the exam will be designated with :triangular_flag_on_post: in the curriculum sections below.
+Resources are primarly cross referenced back to the [allowed CKS sites](#urls-allowed-in-the-extra-single-tab) during the exam as per CNCF/Linux Foundation exam allowed search rules. Videos and other third party resources e.g. blogs will be provided as an optional complimentary material and any 3rd party material not allowed in the exam will be designated with :triangular_flag_on_post: in the curriculum sections below.
 
 Ensure you have the right version of Kubernetes documentation selected (e.g. v1.19 as of 17th Nov GA announcement) especially for API objects and annotations, however for third party tools, you might find that you can still find references for them in old releases and blogs [e.g. Falco install](https://github.com/kubernetes/website/issues/24184).
 
